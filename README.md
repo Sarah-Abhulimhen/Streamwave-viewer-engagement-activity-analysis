@@ -203,10 +203,8 @@ Through this project, I strengthened my ability to:
 | File | Description |
 |------|-------------|
 | StreamWave_Viewer_Activity_Analysis.xlsx | Main Excel workbook containing the interactive dashboard |
-| StreamWave_Dashboard.pdf | PDF export of the dashboard |
 | StreamWave_Executive_Presentation.pdf | Executive presentation summarizing findings and recommendations |
 | Dashboard-preview.png | Main dashboard screenshot |
-| Dashboard-comedy.png | Dashboard filtered by Comedy |
 | README.md | Project documentation |
 
 ---
